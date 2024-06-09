@@ -11,8 +11,6 @@ Gateway to an endless world of movie and TV show insights, where every question 
 Movie Trailer: 
 https://www.youtube.com/watch?v=73_1biulkYk
 
-![](https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa7835326810120c/thumbnails/fd31bdd0-eaf4-427f-bc27-6cb7939e6249.0000001.jpg)
-
 
 ### HOW IT WORKS 
 
@@ -63,6 +61,8 @@ VIDEO ID: 66659a48d22b3a3c97bf1d5f
  'video_id': '66659a48d22b3a3c97bf1d5f'}
  """
 
+![](https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa7835326810120c/thumbnails/fd31bdd0-eaf4-427f-bc27-6cb7939e6249.0000001.jpg)
+https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa7835326810120c/thumbnails/fd31bdd0-eaf4-427f-bc27-6cb7939e6249.0000001.jpg
 
 ### Example: SEARCH
 
