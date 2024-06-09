@@ -119,6 +119,7 @@ VIDEO ID: 66659a48d22b3a3c97bf1d5f
 
 ### Example: RAG Chatbot for "Deadpool & Wolverine" Trailer
 
+![](https://github.com/lucylow/twelve-labs/blob/main/images/2.png?raw=true)
 **User Interaction with the Chatbot**
 
 **User:** "Tell me about Deadpool's first appearance in the trailer."
@@ -143,6 +144,7 @@ VIDEO ID: 66659a48d22b3a3c97bf1d5f
 1. Deadpool makes a sarcastic comment about Wolverine's claws during their fight, saying, 'Nice manicure, did you get those done at a salon?'
 2. Deadpool's dramatic entrance is followed by a quip about his costume being 'freshly laundered.'
 3. In a brief scene, Deadpool tries to annoy Wolverine by imitating his growling voice and stance, leading to a comical exchange."
+
 
 
 
