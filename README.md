@@ -5,12 +5,13 @@ Gateway to an endless world of movie and TV show insights, where every question 
 ![](https://github.com/lucylow/twelve-labs/blob/main/Screen%20Shot%202024-06-09%20at%2011.03.58%20AM.png?raw=true)
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------
 ### Example: Deadpool & Wolverine 
 
 Movie Trailer: 
 https://www.youtube.com/watch?v=73_1biulkYk
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 ### HOW IT WORKS 
 
@@ -38,6 +39,7 @@ https://www.youtube.com/watch?v=73_1biulkYk
    - The chatbot presents the generated response to the user, providing accurate and contextually relevant information.
 
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 ### Embedded Video 
 
@@ -65,6 +67,9 @@ VIDEO ID: 66659a48d22b3a3c97bf1d5f
 
 ![](https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa7835326810120c/thumbnails/fd31bdd0-eaf4-427f-bc27-6cb7939e6249.0000001.jpg)
 https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa7835326810120c/thumbnails/fd31bdd0-eaf4-427f-bc27-6cb7939e6249.0000001.jpg
+
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 ### Example: SEARCH
 
@@ -108,6 +113,7 @@ https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa78353268
   - **Classification:** This scene is tagged under the "Drama" category.
  
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 ### Example: RAG Chatbot for "Deadpool & Wolverine" Trailer
 
