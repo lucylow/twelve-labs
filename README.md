@@ -43,6 +43,9 @@ https://www.youtube.com/watch?v=73_1biulkYk
 
 ### Embedded Video 
 
+![](https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa7835326810120c/thumbnails/fd31bdd0-eaf4-427f-bc27-6cb7939e6249.0000001.jpg)
+https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa7835326810120c/thumbnails/fd31bdd0-eaf4-427f-bc27-6cb7939e6249.0000001.jpg
+
 ~~~
 VIDEO ID: 66659a48d22b3a3c97bf1d5f
 {'_id': '66659a3efa7835326810120c',
@@ -65,13 +68,12 @@ VIDEO ID: 66659a48d22b3a3c97bf1d5f
 ~~~
 
 
-![](https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa7835326810120c/thumbnails/fd31bdd0-eaf4-427f-bc27-6cb7939e6249.0000001.jpg)
-https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa7835326810120c/thumbnails/fd31bdd0-eaf4-427f-bc27-6cb7939e6249.0000001.jpg
-
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 ### Example: SEARCH
+
+![](https://github.com/lucylow/twelve-labs/blob/main/Screen%20Shot%202024-06-09%20at%2011.16.33%20AM.png?raw=true)
 
 **Find any scene in natural language**
 - **User Query:** "Show me Deadpool's first appearance in the trailer."
