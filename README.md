@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=73_1biulkYk
 
 ### Embedded Video 
 
-'''
+~~~
 VIDEO ID: 66659a48d22b3a3c97bf1d5f
 {'_id': '66659a3efa7835326810120c',
  'created_at': '2024-06-09T12:04:14.069Z',
@@ -60,7 +60,8 @@ VIDEO ID: 66659a48d22b3a3c97bf1d5f
  'type': 'index_task_info',
  'updated_at': '2024-06-09T12:08:52.222Z',
  'video_id': '66659a48d22b3a3c97bf1d5f'}
-'''
+~~~
+
 
 ![](https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa7835326810120c/thumbnails/fd31bdd0-eaf4-427f-bc27-6cb7939e6249.0000001.jpg)
 https://deuqpmn4rs7j5.cloudfront.net/66649f09937ce44a0402bad4/66659a3efa7835326810120c/thumbnails/fd31bdd0-eaf4-427f-bc27-6cb7939e6249.0000001.jpg
